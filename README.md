@@ -15,4 +15,5 @@ Out of curiosity and wanting to solve my own problems, I started building [Chang
 - **Embeddable**: Showcase your changelog on your website.
 
 **[Pricing](https://www.changeloggen.com/#pricing)**
+
 I’m starting with a lifetime deal until I fully launch the app, the goal is the end of November. Then it will be recurring billing starting from $19 monthly.
